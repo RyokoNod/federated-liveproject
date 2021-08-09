@@ -14,3 +14,7 @@ codes/partial-solutions/
 codes/build-network-models/.ipynb_checkpoints/
 
 data/PeopleLocations.csv
+
+data/PeopleLocationsFeatures.csv
+
+codes/personalized-diagnosis/.ipynb_checkpoints/
